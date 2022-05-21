@@ -32,7 +32,7 @@ print(suma)
 M = 3 # numero de filas
 N = 3 # numero de columnas
 
-#CREA UNA MATRIZ
+#CREA UNA MATRIZ Y MOSTRAR LOS CEROS
 """
 matriz = []
 fila = []
