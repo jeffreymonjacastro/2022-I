@@ -30,3 +30,5 @@ for i in range(5):
     for j in range(5):
         print('{:>7}'.format(DATA[i][j]), end="\t\t")
     print()
+
+print("hello")
